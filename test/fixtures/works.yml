@@ -1,0 +1,26 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+mariner:
+  title: Mariner
+  creator: Cult of Luna
+  description: Collaboration w/ Julie Christmas
+  publication_year: 2016-04-08
+  category: album
+
+thrill:
+  title: Can't Buy a Thrill
+  creator: Steely Dan
+  description: Dark, cryptic lyrics and catchy 70s hooks!
+  publication_year: 1972-11-01
+  category: album
+
+poodr:
+  title: Practical Object Oriented Design in Ruby
+  creator: Sandi Metz
+  description: programming!
+  publication_year: 2012
+  category: book
+
+movie:
+  title: test movie - has only required fields
+  category: movie
